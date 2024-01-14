@@ -1,0 +1,6 @@
+PyJWT
+werkzeug
+flask
+flask_cors
+SQLAlchemy
+uuid
